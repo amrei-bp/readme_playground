@@ -16,6 +16,14 @@ See the [open issues](https://github.com/amrei-bp/readme_playground/issues) for 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Emojis
+## 😎 Emojis
 
-And [here](GitHub Emoji Cheat Sheet) is an emoji cheat sheet. 
+You can use emojis in the readme to clarify points (and even add them to commits, as I have just learned, use cases are to be determined). 
+
+- ⏱ You can point out deadlines
+
+- [📙](https://www.webfx.com/tools/emoji-cheat-sheet/) Link to documentation
+
+- ✏ Or invite them to contribute
+
+Here is a [cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
