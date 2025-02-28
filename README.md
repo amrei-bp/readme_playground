@@ -43,10 +43,16 @@ Make it easy for others to know what they can do with your code and add license 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Here are some [markdown liscense badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba) you can use.
+Here are some [markdown license badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba) you can use.
 
 ## Title banner
 
 These you can use for projects, but also for your very own user readme. Easily generated [here](https://leviarista.github.io/github-profile-header-generator/). 
 
-![Header](./github-header-image.png)
+![Header](./github-header-image.png)width="280"
+
+## Octocat
+
+You can [design your very own octocat](https://myoctocat.com/), and display it in your readme: 
+
+<img align="middle" src="octocat-1740776211964.png" width="280">
