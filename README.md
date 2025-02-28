@@ -1,6 +1,6 @@
-# What is this readme for?
+# What is this repository for?
 
-This repository is to try out different things that could make readme's easier to read. 
+This is a playground to try out different things that could make readme's easier to read, more informative, or just more fun. 
 
 ## Roadmap
 
@@ -49,10 +49,20 @@ Here are some [markdown license badges](https://gist.github.com/lukas-h/2a5d0069
 
 These you can use for projects, but also for your very own user readme. Easily generated [here](https://leviarista.github.io/github-profile-header-generator/). 
 
-![Header](./github-header-image.png)width="280"
+![Header](./github-header-image.png)
 
 ## Octocat
 
-You can [design your very own octocat](https://myoctocat.com/), and display it in your readme: 
+You can [design your very own octocat](https://myoctocat.com/), or (choose an existing one](https://octodex.github.com/),  and display it in your readme: 
 
 <img align="middle" src="octocat-1740776211964.png" width="280">
+
+## Skill icons
+
+Advertise your skills by listing [skill icons](https://github.com/tandpfun/skill-icons):
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cpp,anaconda,bash,latex,linux,r,vscode" />
+  </a>
+</p>
