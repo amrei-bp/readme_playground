@@ -27,3 +27,11 @@ You can use emojis in the readme to clarify points (and even add them to commits
 - ✏ Or invite them to contribute
 
 Here is a [cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
+
+## Top contributors:
+
+You can even add the top contributors of your repo to the readme: 
+
+<a href="https://github.com/amrei-bp/readme_playground/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=amrei-bp/readme_playground" alt="contrib.rocks image" />
+</a>
