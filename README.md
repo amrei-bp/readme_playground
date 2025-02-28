@@ -35,3 +35,12 @@ You can even add the top contributors of your repo to the readme:
 <a href="https://github.com/amrei-bp/readme_playground/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=amrei-bp/readme_playground" alt="contrib.rocks image" />
 </a>
+
+
+## License
+
+Make it easy for others to know what they can do with your code and add license information into your readme. Often these are placed at the top of the readme for even easier accessibility. They link to the text of the license (not in your repository, but on the web). 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Here are some [markdown liscense badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba) you can use.
