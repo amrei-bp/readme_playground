@@ -123,7 +123,7 @@ The [Github Profile Summary Cards](https://github-profile-summary-cards.vercel.a
 <img style="height: auto; width: 45%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrei-bp&theme=slateorange" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 45%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrei-bp&theme=slateorange&utcOffset=8" /></div>
+<img style="height: auto; width: 45%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrei-bp&theme=slateorange&utcOffset=1" /></div>
 </div>
 
 ## Github stats with rank
