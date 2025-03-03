@@ -90,6 +90,17 @@ Advertise your skills by listing [skill icons](https://github.com/tandpfun/skill
   </a>
 </p>
 
+## WidgetBox
+
+[WidgetBox](https://github.com/Jurredr/github-widgetbox?tab=readme-ov-file)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=amrei-bp&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=r,bash,cpp,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,wordpress,aws,jupyter&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+
 ---
 
 ## Github summary cards
@@ -121,6 +132,7 @@ You can also display your [Github readme stats](https://github.com/anuraghazra/g
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrei-bp&show_icons=true&locale=en" alt="amrei-bp" /></p>
 
+---
 
 ## Pin repositories
 
@@ -130,6 +142,8 @@ Github restricts the number of repositories you can pin to six. Using the [Readm
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SLUBioinformaticsInfrastructure&repo=Three_Bees_Workshop_Series&description_lines_count=3)](https://github.com/SLUBioinformaticsInfrastructure/Three_Bees_Workshop_Series)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=Training-Tech-shorts&description_lines_count=3&show_owner=true)](https://github.com/NBISweden/Training-Tech-shorts)
+
+---
 
 ## make your own badge
 
@@ -156,6 +170,7 @@ This counts the number of times a Github profile has been accessed since the tra
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=NBISweden&color=blue&label=GitHub+Profile+Views+NBIS)](https://github.com/NBISweden)
 
+---
 ## Animated text
 
 You can have text appear on your page, as if it was typed on the spot:
@@ -163,3 +178,5 @@ You can have text appear on your page, as if it was typed on the spot:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 Customizable [here](https://readme-typing-svg.demolab.com/demo/).
+
+---
