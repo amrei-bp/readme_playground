@@ -96,7 +96,7 @@ Advertise your skills by listing [skill icons](https://github.com/tandpfun/skill
 
 There are several different ways to display your github stats (if you want to). By default, they will take information off your public repositories, but it is possible to gather information from the private ones too. 
 
-The [Github Profile Summary Cards)(https://github-profile-summary-cards.vercel.app/demo.html), for example, come in a lot of different [themes](https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/README.md) and are easily incorporated:
+The [Github Profile Summary Cards](https://github-profile-summary-cards.vercel.app/demo.html), for example, come in a lot of different [themes](https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/README.md) and are easily incorporated:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrei-bp&theme=slateorange) 
 
@@ -150,4 +150,10 @@ And another one:
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=amrei-bp&color=blue&label=GitHub+Profile+Views)](https://github.com/amrei-bp)
 
+## Animated text
 
+You can have text appear on your page, as if it was typed on the spot:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+Customizable [here](https://readme-typing-svg.demolab.com/demo/).
