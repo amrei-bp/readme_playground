@@ -124,14 +124,16 @@ You can also display your [Github readme stats](https://github.com/anuraghazra/g
 
 ## Pin repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amrei-bp&repo=readme_playground)](https://github.com/amrei-bp/github-readme-stats)
+Github restricts the number of repositories you can pin to six. Using the [Readme Cards](https://github.com/anuraghazra/github-readme-stats) you can pin as many repositories as you wish. Those can be any repostories, your own, from you organization, or from someone else. I have not tried private repositories, though. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SLUBioinformaticsInfrastructure&repo=Three_Bees_Workshop_Series)](https://github.com/SLUBioinformaticsInfrastructure/Three_Bees_Workshop_Series)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amrei-bp&repo=readme_playground&show_owner=true)](https://github.com/amrei-bp/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SLUBioinformaticsInfrastructure&repo=Three_Bees_Workshop_Series&description_lines_count=3)](https://github.com/SLUBioinformaticsInfrastructure/Three_Bees_Workshop_Series)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=Training-Tech-shorts&description_lines_count=3&show_owner=true)](https://github.com/NBISweden/Training-Tech-shorts)
 
 ## make your own badge
 
-If you like these pins you can make your own [here](https://shields.io/badges).
+If you like badges you can make your own [here](https://shields.io/badges).
 
 An example of a static badge:
 
@@ -146,9 +148,13 @@ And another one:
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/amrei-bp/readme_playground?label=Date%20of%20last%20commit%20to%20the%20repository%3A%20)
 
-## User count
+And another one:
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=amrei-bp&color=blue&label=GitHub+Profile+Views)](https://github.com/amrei-bp)
+This counts the number of times a Github profile has been accessed since the tracker was installed:
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=amrei-bp&color=blue&label=GitHub+Profile+Views+Amrei)](https://github.com/amrei-bp)
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=NBISweden&color=blue&label=GitHub+Profile+Views+NBIS)](https://github.com/NBISweden)
 
 ## Animated text
 
