@@ -8,6 +8,9 @@
 </tr>
 </table>
 
+## Create your profile README on Github
+
+```To create your profile README you need to name the repo as your username.```
 
 ## Roadmap
 
@@ -89,4 +92,29 @@ Advertise your skills by listing [skill icons](https://github.com/tandpfun/skill
 
 ---
 
-## 
+## Github summary cards
+
+There are several different ways to display your github stats (if you want to). By default, they will take information off your public repositories, but it is possible to gather information from the private ones too. 
+
+The [Github Profile Summary Cards)(https://github-profile-summary-cards.vercel.app/demo.html) come in a lot of different [themes](https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/README.md) and are easily incorporated:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrei-bp&theme=slateorange) 
+
+
+<div class='container'>
+<img style="height: auto; width: 45%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrei-bp&theme=slateorange" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 45%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amrei-bp&theme=slateorange" /></div>
+</div>
+
+<div class='container'>
+<img style="height: auto; width: 45%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrei-bp&theme=slateorange" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 45%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrei-bp&theme=slateorange&utcOffset=8" /></div>
+</div>
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/amrei-bp/langs)](https://githubtrends.io)
+
