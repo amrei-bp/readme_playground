@@ -122,12 +122,32 @@ You can also display your [Github readme stats](https://github.com/anuraghazra/g
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrei-bp&show_icons=true&locale=en" alt="amrei-bp" /></p>
 
 
-
-## User count
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrei-bp&label=Profile%20views&color=0e75b6&style=flat" alt="amrei-bp" /> </p>
-
-
 ## Pin repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amrei-bp&repo=readme_playground)](https://github.com/amrei-bp/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SLUBioinformaticsInfrastructure&repo=Three_Bees_Workshop_Series)](https://github.com/SLUBioinformaticsInfrastructure/Three_Bees_Workshop_Series)
+
+
+## make your own badge
+
+If you like these pins you can make your own [here](https://shields.io/badges).
+
+An example of a static badge:
+
+![Static Badge](https://img.shields.io/badge/this_is_a_test-badge-blue)
+
+
+An example of a dynamic badge: 
+
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/amrei-bp/readme_playground?label=Number%20of%20files%20in%20repository%3A)
+
+And another one: 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/amrei-bp/readme_playground?label=Date%20of%20last%20commit%20to%20the%20repository%3A%20)
+
+## User count
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=amrei-bp&color=blue&label=GitHub+Profile+Views)](https://github.com/amrei-bp)
+
+
