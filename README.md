@@ -74,7 +74,7 @@ These you can use for projects, but also for your very own user readme. Easily g
 
 ## Octocat
 
-You can [design your very own octocat](https://myoctocat.com/), or (choose an existing one](https://octodex.github.com/),  and display it in your readme: 
+You can [design your very own octocat](https://myoctocat.com/), or [choose an existing one](https://octodex.github.com/),  and display it in your readme: 
 
 <img align="middle" src="octocat-1740776211964.png" width="280">
 
@@ -96,7 +96,7 @@ Advertise your skills by listing [skill icons](https://github.com/tandpfun/skill
 
 There are several different ways to display your github stats (if you want to). By default, they will take information off your public repositories, but it is possible to gather information from the private ones too. 
 
-The [Github Profile Summary Cards)(https://github-profile-summary-cards.vercel.app/demo.html) come in a lot of different [themes](https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/README.md) and are easily incorporated:
+The [Github Profile Summary Cards)(https://github-profile-summary-cards.vercel.app/demo.html), for example, come in a lot of different [themes](https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/README.md) and are easily incorporated:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrei-bp&theme=slateorange) 
 
@@ -115,6 +115,16 @@ The [Github Profile Summary Cards)(https://github-profile-summary-cards.vercel.a
 <img style="height: auto; width: 45%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrei-bp&theme=slateorange&utcOffset=8" /></div>
 </div>
 
+## Github stats with rank
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/amrei-bp/langs)](https://githubtrends.io)
+You can also display your Github statistics with a rank: 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrei-bp&show_icons=true&locale=en" alt="amrei-bp" /></p>
+
+
+
+## User count
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrei-bp&label=Profile%20views&color=0e75b6&style=flat" alt="amrei-bp" /> </p>
+
 
