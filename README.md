@@ -117,7 +117,7 @@ The [Github Profile Summary Cards)(https://github-profile-summary-cards.vercel.a
 
 ## Github stats with rank
 
-You can also display your Github statistics with a rank: 
+You can also display your [Github readme stats](https://github.com/anuraghazra/github-readme-stats) with a rank: 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrei-bp&show_icons=true&locale=en" alt="amrei-bp" /></p>
 
@@ -128,3 +128,6 @@ You can also display your Github statistics with a rank:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrei-bp&label=Profile%20views&color=0e75b6&style=flat" alt="amrei-bp" /> </p>
 
 
+## Pin repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amrei-bp&repo=readme_playground)](https://github.com/amrei-bp/github-readme-stats)
