@@ -1,6 +1,13 @@
 # What is this repository for?
 
-This is a playground to try out different things that could make readme's easier to read, more informative, or just more fun. 
+<table>
+<tr>
+<td>
+  This is a playground to try out different things that could make readme's easier to read, more informative, or just more fun. You can use different bits and pieces for project readme's or your personal github readme. 
+</td>
+</tr>
+</table>
+
 
 ## Roadmap
 
@@ -13,8 +20,7 @@ This is a playground to try out different things that could make readme's easier
 
 See the [open issues](https://github.com/amrei-bp/readme_playground/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+---
 
 ## 😎 Emojis
 
@@ -28,6 +34,8 @@ You can use emojis in the readme to clarify points (and even add them to commits
 
 Here is a [cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
 
+---
+
 ## Top contributors:
 
 You can even add the top contributors of your repo to the readme: 
@@ -35,6 +43,8 @@ You can even add the top contributors of your repo to the readme:
 <a href="https://github.com/amrei-bp/readme_playground/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=amrei-bp/readme_playground" alt="contrib.rocks image" />
 </a>
+
+---
 
 
 ## License
@@ -45,17 +55,27 @@ Make it easy for others to know what they can do with your code and add license 
 
 Here are some [markdown license badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba) you can use.
 
+---
+
+## Readme editor
+
+Here is an [editor](https://readme.so/editor) that can help you write a markdown readme for your project. Click on the different potential content and it will build a markdown file for you. You can edit on the fly and it'll even show a rendered preview for you. In the end, you can copy the raw code to your project's readme file. 
+
 ## Title banner
 
 These you can use for projects, but also for your very own user readme. Easily generated [here](https://leviarista.github.io/github-profile-header-generator/). 
 
 ![Header](./github-header-image.png)
 
+---
+
 ## Octocat
 
 You can [design your very own octocat](https://myoctocat.com/), or (choose an existing one](https://octodex.github.com/),  and display it in your readme: 
 
 <img align="middle" src="octocat-1740776211964.png" width="280">
+
+---
 
 ## Skill icons
 
@@ -66,3 +86,7 @@ Advertise your skills by listing [skill icons](https://github.com/tandpfun/skill
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cpp,anaconda,bash,latex,linux,r,vscode" />
   </a>
 </p>
+
+---
+
+## 
