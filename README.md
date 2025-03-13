@@ -188,4 +188,6 @@ Customizable [here](https://readme-typing-svg.demolab.com/demo/).
 
 ## Snake
 
-![Snake animation](https://github.com/amrei-bp/amrei-bp/blob/output/github-contribution-grid-snake.svg)
+You can use your github contributions graph and make it into a [snake game](https://github.com/Platane/snk), using github actions:
+
+![Snake animation](https://github.com/amrei-bp/readme_playground/blob/output/github-contribution-grid-snake.svg)
