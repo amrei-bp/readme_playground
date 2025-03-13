@@ -185,3 +185,7 @@ You can have text appear on your page, as if it was typed on the spot:
 Customizable [here](https://readme-typing-svg.demolab.com/demo/).
 
 ---
+
+## Snake
+
+![Snake animation](https://github.com/amrei-bp/amrei-bp/blob/output/github-contribution-grid-snake.svg)
