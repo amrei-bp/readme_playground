@@ -95,6 +95,14 @@ Advertise your skills by listing [skill icons](https://github.com/tandpfun/skill
   </a>
 </p>
 
+also in light mode:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cpp,anaconda,bash,latex,linux,r,vscode&theme=light" />
+  </a>
+</p>
+
 ## WidgetBox
 
 [WidgetBox](https://github.com/Jurredr/github-widgetbox?tab=readme-ov-file)
