@@ -103,6 +103,16 @@ also in light mode:
   </a>
 </p>
 
+[Here](https://github.com/LelouchFR/skill-icons) is another set of skill icons, based on the above, but with more icons, and more activity for adding new icons. 
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,apptainer,docker,nextflow,cpp,R&theme=light&titles=true"
+    />
+  </a>
+</p>
+
 ## WidgetBox
 
 [WidgetBox](https://github.com/Jurredr/github-widgetbox?tab=readme-ov-file)
