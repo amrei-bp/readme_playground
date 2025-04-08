@@ -113,6 +113,17 @@ also in light mode:
   </a>
 </p>
 
+And below you can find a way to have the icons autmatically toggle between light and dark setting, depending on the system setting: 
+
+<div align="center">
+  
+  <!-- Dark Mode -->
+  [![My skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=dark#gh-dark-mode-only)](https://github.com/LelouchFR/skill-icons#gh-dark-mode-only)
+  <!-- Light Mode -->
+  [![My skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=light#gh-light-mode-only)](https://github.com/LelouchFR/skill-icons#gh-light-mode-only)
+
+</div>
+
 ## WidgetBox
 
 [WidgetBox](https://github.com/Jurredr/github-widgetbox?tab=readme-ov-file)
