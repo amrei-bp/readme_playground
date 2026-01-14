@@ -226,6 +226,8 @@ You can also display your [Github readme stats](https://github.com/anuraghazra/g
 
 ## Pin repositories
 
+Update: Unfortunately the below option is now dysfunct. I am still leaving it up though, in case the functionality will come live again at a later point in time. To use these pinned repositories currently you need to spin up your own [Vercel instance](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#on-vercel), which I have not done. 
+
 Github restricts the number of repositories you can pin to six. Using the [Readme Cards](https://github.com/anuraghazra/github-readme-stats) you can pin as many repositories as you wish. Those can be any repostories, your own, from you organization, or from someone else. I have not tried private repositories, though. 
 
 ```{.md}
